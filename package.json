@@ -1,0 +1,30 @@
+{
+  "name": "quiz",
+  "version": "1.0.0",
+  "description": "Proyecto Quiz",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jcruzsalaverri/P2_Quiz.git"
+  },
+  "keywords": [
+    "quiz",
+    "core",
+    "node"
+  ],
+  "author": "Javier Cruz Salaverri",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/Jcruzsalaverri/P2_Quiz/issues"
+  },
+  "homepage": "https://github.com/Jcruzsalaverri/P2_Quiz#readme",
+  "dependencies": {
+    "chalk": "^2.3.1",
+    "fidget": "^0.4.9",
+    "figlet": "^1.2.0"
+  }
+}
